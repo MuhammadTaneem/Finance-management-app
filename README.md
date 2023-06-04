@@ -9,7 +9,7 @@ To install Cash Flow on your Android device, follow the steps below:
 1. Locate the `cash flow.apk` file in the `apk` folder of this repository.
 2. Transfer the APK file to your Android device via USB or any other method you prefer.
 3. On your Android device, navigate to **Settings > Security** and enable the **Unknown Sources** option. This allows you to install apps from sources other than the Google Play Store.
-4. Open a file manager app on your Android device and locate the `cash flow.apk` file.
+4. Open a file manager app on your Android device and locate the `cash_flow.apk` file.
 5. Tap on the APK file to begin the installation process.
 6. Follow the on-screen prompts to install Cash Flow on your device.
 7. Once the installation is complete, you can find the Cash Flow app icon in your app drawer.
